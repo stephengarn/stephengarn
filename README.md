@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stephen Garner
 - 👀 I’m interested in web app development, including languages such as PHP, Javascript, and Python. HTML is useful to me as well, along with CSS
 - 🌱 I’m currently learning to develop apps on AWS' Elastic Beanstalk.
-- 💞️ I’m looking to collaborate on nothing, I work alone. 
+- 💞️ I’m looking to collaborate applications involing Laravel.
 - 📫 How to reach me stephen.garn@gmail.com
